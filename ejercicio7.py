@@ -41,6 +41,10 @@ class Cuenta:
     print(f' Se retiró {cantidad} pesos al balance de la cuenta \n')
 
 
+'''
+  Operaciones de la cuenta
+'''
+
 # Ale = Cuenta('Alejandro', 350000)
 # Ale.mostrar()
 # Ale.ingresar(25000)
