@@ -32,11 +32,10 @@ class Persona:
     print(f' Nombre:{self.__nombre} \n Edad:{self.__edad} \n DNI:{self.__dni} \n')
 
   def es_mayor_de_edad(self):
-    if self.__edad > 18:
-      print(' Es mayor de edad')
+    if self.__edad >= 18:
+      return True
     else:
-      print(' No es mayor de edad')
-    
+      return False
+
 Ale = Persona('Alejandro', 38, 29950188)
 Ale.mostrar()
-Ale.es_mayor_de_edad()
