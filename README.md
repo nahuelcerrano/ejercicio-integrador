@@ -1,9 +1,7 @@
 # Ejercicio integrador
-- - -
 
-## Ejercicios integradores para revisar en la reunión sincrónica 7
+## **Ejercicios integradores para revisar en la reunión sincrónica 7**
 
-- - -
 
 1. Escribir una función que calcule el máximo común divisor entre dos números.
 
@@ -24,7 +22,7 @@ del usuario y lo devuelva, iterando mientras el valor no sea correcto. Intente r
     - `mostrar():` Muestra los datos de la persona.
     - `es_mayor_de_edad():` Devuelve un valor lógico indicando si es mayor de edad.
 
-7. Crea una clase llamada Cuenta que tendrá los siguientes atributos: titular (que es una persona) y cantidad (puede tener decimales). El titular será obligatorio y la cantidad es opcional. Crear los siguientes métodos para la clase:
+7. Crea una clase llamada **Cuenta** que tendrá los siguientes atributos: **titular (que es una persona)** y **cantidad (puede tener decimales)**. El titular será obligatorio y la cantidad es opcional. Crear los siguientes métodos para la clase:
     - Un constructor, donde los datos pueden estar vacíos.
     - Los setters y getters para cada uno de los atributos. El atributo no se puede modificar directamente, sólo ingresando o retirando dinero.
     - `mostrar()`: Muestra los datos de la cuenta.
